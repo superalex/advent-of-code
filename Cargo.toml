@@ -1,0 +1,13 @@
+[package]
+name = "advent-of-code-2024"
+version = "0.1.0"
+authors = ["Alejandro Alonso <alejandroalonsofernandez@gmail.com>"]
+edition = "2021"
+
+[lib]
+bench = false
+
+[dependencies]
+aoc-runner = "0.3.0"
+aoc-runner-derive = "0.3.0"
+regex = "1.11.1"
